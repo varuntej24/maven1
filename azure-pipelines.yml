@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: 'KK'  # Your self-hosted agent pool name
+  name: 'lk'  # Your self-hosted agent pool name
 
 steps:
   # Step 1: Checkout the Code from GitHub
